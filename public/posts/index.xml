@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Oct 2024 14:14:39 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 13 Oct 2024 14:14:39 -0300</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Introduction Hello! My name is Ariel Bosano, I&amp;rsquo;m an Industrial Engineer, data scientist and frustrated Software Engineer. I&amp;rsquo;m currently working as Senior Data Scientist at Clip clip.mx. I&amp;rsquo;m passionate about data, technology and how they can be used to improve people&amp;rsquo;s lives.&#xA;The purpose of this blog is to share my thoughts, ideas, projects and experiencies that I&amp;rsquo;ve been through in my career. I hope you find it useful and interesting.</description>
+    </item>
+  </channel>
+</rss>
