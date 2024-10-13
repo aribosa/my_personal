@@ -1,4 +1,4 @@
-baseURL = 'https://aribosa.github.io/my_personal/'
+baseURL = 'https://aribosa.github.io/'
 languageCode = 'en-us'
 title = 'Ariel Bosano - Blog'
 theme = 'paper-mod'
