@@ -1,6 +1,6 @@
 <style>
     #callout {
-      background: {{ if .Get "color" }}{{ .Get "color" }}{{ else }}{{ .Site.Params.colors.callouts.background }}{{ end }};
+      background: var(--callout-bg);
       padding: 1.5em 1.25em;
       border-radius: 3px;
       display: flex;

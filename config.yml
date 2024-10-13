@@ -42,4 +42,4 @@ params:
   colors:
     callouts:
       background: "#f5ebe0"
-      secondary: "#FFD700"
+      background-dark: "#f8f9fa"
