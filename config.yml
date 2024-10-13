@@ -18,14 +18,16 @@ minify:
 
 
 params:
+  color: "#HHD709"
   env: production
+  customCSS: ["css/custom.css"]
   description: "Ariel Bosano's personal blog"
   author: Ariel Bosano
 
   defaultTheme: auto
 
   homeInfoParams:
-    Title: "Ariel Bosano"
+    Title: "The Data Science Blog"
     Content: >
       👋 **Bienvenido, Welcome**
 
@@ -36,3 +38,8 @@ params:
       - We are not experts tough we are always learning and trying to push the
         boundaries of our knowledge. Feel free to reach out, comment, or share
         your thoughts.
+
+  colors:
+    callouts:
+      background: "#f5ebe0"
+      secondary: "#FFD700"

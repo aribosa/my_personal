@@ -1,0 +1,9 @@
+/* rounded-image class */
+.rounded {
+  border-radius: 50%;
+}
+
+/* Change img inside a .rounded class */
+.rounded img {
+  border-radius: 50%;
+}
