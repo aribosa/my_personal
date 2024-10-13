@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://aribosa.github.io/my_personal/'
 languageCode = 'en-us'
 title = 'Ariel Bosano - Blog'
 theme = 'ananke'
